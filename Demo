@@ -1,0 +1,7 @@
+p = 16.68 #penne
+a = 6.98 #arabita
+b = 16.78
+s = 15.26
+ab = 10.00
+sum = p+a+b+s+ab
+print(round(sum,2)
